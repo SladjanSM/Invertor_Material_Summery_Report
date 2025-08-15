@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net47</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>SM.MaterialSummary.Addin</AssemblyName>
+    <RootNamespace>SM.MaterialSummary</RootNamespace>
+    <Platforms>AnyCPU</Platforms>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.InteropServices" />
+    <!-- Autodesk Inventor COM will need to be added in Codex/VS:
+         Autodesk Inventor Object Library (Inventor.tlb) -->
+  </ItemGroup>
+</Project>

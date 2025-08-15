@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationAddIn>
+  <ClassId>{CE2E4C3C-1A1B-4F7C-9A0E-9F6D4E3D1B77}</ClassId>
+  <ClientId>{CE2E4C3C-1A1B-4F7C-9A0E-9F6D4E3D1B77}</ClientId>
+  <DisplayName>SM Furniture AI – Material Summary</DisplayName>
+  <Description>Material summary add-in (WinForms UI, multi-assembly)</Description>
+  <Assembly>C:\Program Files\SMFurnitureAI\MaterialSummary\SM.MaterialSummary.Addin.dll</Assembly>
+  <LoadOnStartup>1</LoadOnStartup>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+</ApplicationAddIn>
